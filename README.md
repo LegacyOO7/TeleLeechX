@@ -198,7 +198,7 @@ client_secret =
 # Deploying on Heroku
 - Deploying on Heroku Indirectly `Supported`, Please Don't Abuse it or Share this Repo like Anything !!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LegacyOO7/TeleLeechX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LegacyOO7/TeleLeex)
 
 
 
